@@ -6,6 +6,7 @@ synopsis: Conveniently wrap a single value in a record when encoding to and from
 description: This package exports a single type (`SingleField`) that allows one to conveniently wrap a single value in a record for use with JSON.
 
 license: MIT
+category:           Text, Web, JSON
 author:             Ed Wastell
 maintainer:         ed@wastell.co.uk
 
