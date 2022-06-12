@@ -9,9 +9,6 @@ license: MIT
 author:             Ed Wastell
 maintainer:         ed@wastell.co.uk
 
--- A copyright notice.
--- copyright:
--- category:
 extra-source-files: CHANGELOG.md
 
 library
